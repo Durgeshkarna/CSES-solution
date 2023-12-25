@@ -15,4 +15,4 @@ int main(){
             count=1;
         }
     }
-    cout<<
+    cout<< y;
